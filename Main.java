@@ -3,9 +3,9 @@ public class Main {
         
         Buku buku1 = new Buku("0001", "Pemrogramman Java");
         Buku buku2 = new Buku("0002", "Pemrogramman C++");
-        BukuLuar buku3 = new BukuLuar("0003", "Pemrogramman Python");
+        BukuLuar buku3 = new BukuLuar("0003", "Pemrogramman Kotlin");
     
-        Petugas petugas1 = new Petugas("Alex", "P001");
+        Petugas petugas1 = new Petugas("Alex", "M001");
         Peminjam peminjam1 = new Mahasiswa();
         peminjam1.setNamaPeminjam("Cinta");
         peminjam1.setKodePeminjam("M002");
